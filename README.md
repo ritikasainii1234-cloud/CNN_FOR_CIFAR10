@@ -26,6 +26,8 @@ Python
 PyTorch
 Torchvision
 NumPy
+
+
 🧠 CNN Architecture
 Input Image (3 × 32 × 32)
 
@@ -43,6 +45,8 @@ Input Image (3 × 32 × 32)
 ↓ Fully Connected Layer
 
 ↓ Output Layer (10 Classes)
+
+
 📊 Workflow
 Load CIFAR-10 Dataset
 Apply Transformations
@@ -50,6 +54,8 @@ Create DataLoaders
 Build CNN Model
 Train the Model
 Test Model Accuracy
+
+
 🎯 Features
 Multi-class Image Classification
 CNN-based Feature Extraction
